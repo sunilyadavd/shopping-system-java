@@ -1,2 +1,1 @@
-# shopping-system-java
-hello
+# online-shoping-project-with-java
